@@ -1,0 +1,11 @@
+D:\Dropbox\המסמכים שלי\SharpDevelop Projects\cmdit\inputbox\bin\Debug\inputbox.exe.config
+D:\Dropbox\המסמכים שלי\SharpDevelop Projects\cmdit\inputbox\bin\Debug\inputbox.exe
+D:\Dropbox\המסמכים שלי\SharpDevelop Projects\cmdit\inputbox\bin\Debug\Microsoft.CSharp.dll
+D:\Dropbox\המסמכים שלי\SharpDevelop Projects\cmdit\inputbox\bin\Debug\Microsoft.VisualBasic.dll
+D:\Dropbox\המסמכים שלי\SharpDevelop Projects\cmdit\inputbox\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Dropbox\המסמכים שלי\SharpDevelop Projects\cmdit\inputbox\bin\Debug\System.Data.dll
+D:\Dropbox\המסמכים שלי\SharpDevelop Projects\cmdit\inputbox\bin\Debug\System.dll
+D:\Dropbox\המסמכים שלי\SharpDevelop Projects\cmdit\inputbox\bin\Debug\System.Xml.dll
+D:\Dropbox\המסמכים שלי\SharpDevelop Projects\cmdit\inputbox\bin\Debug\System.Xml.Linq.dll
+D:\Dropbox\המסמכים שלי\SharpDevelop Projects\cmdit\inputbox\obj\Debug\inputbox.csprojResolveAssemblyReference.cache
+D:\Dropbox\המסמכים שלי\SharpDevelop Projects\cmdit\inputbox\obj\Debug\inputbox.exe
