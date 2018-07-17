@@ -21,11 +21,11 @@ namespace inputbox
         else if (tmp.StartsWith("-default=", StringComparison.CurrentCultureIgnoreCase))
           sDefault = tmp.Replace("-default=", "").Replace("\"", "").Replace("\r", "").Replace("\\n", "\n").Replace("\\t", "    ");
       }
-      if (sPrompt.Equals("") && sTitle.Equals("") && sDefault.Equals("")) {
+      if (String.IsNullOrEmpty(sPrompt) && String.IsNullOrEmpty(sTitle) && String.IsNullOrEmpty(sDefault)) {
         Console.Error.WriteLine("Error: missing -prompt=\"..\" or -title=\"..\" or -default=\"..\"");
       } else {
         Console.WriteLine(
-          Microsoft.VisualBasic.Interaction.InputBox(sPrompt, sTitle, sDefault)
+          Microsoft.VisualBasic.Interaction.InputBox(sPrompt, sTitle, sDefault, -1, -1)
         );
       }
     }
