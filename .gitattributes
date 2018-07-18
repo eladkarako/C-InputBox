@@ -1,0 +1,14 @@
+*.exe      binary
+*.dll      binary
+*.snk      binary
+*.ico      binary
+*.png      binary
+
+*.cs        text  eol=crlf
+*.sln       text  eol=crlf
+*.config    text  eol=crlf
+*.csproj    text  eol=crlf
+*.txt       text  eol=crlf
+*.manifest  text  eol=crlf
+
+README.md         eol=crlf
