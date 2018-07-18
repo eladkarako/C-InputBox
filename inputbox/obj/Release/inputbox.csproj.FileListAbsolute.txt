@@ -4,5 +4,4 @@ D:\Software\עזרי ויזואל-בייסיק 1\CSharp-InputBox\inputbox\bin\Re
 D:\Software\עזרי ויזואל-בייסיק 1\CSharp-InputBox\inputbox\bin\Release\System.Data.dll
 D:\Software\עזרי ויזואל-בייסיק 1\CSharp-InputBox\inputbox\bin\Release\System.dll
 D:\Software\עזרי ויזואל-בייסיק 1\CSharp-InputBox\inputbox\bin\Release\System.Xml.dll
-D:\Software\עזרי ויזואל-בייסיק 1\CSharp-InputBox\inputbox\obj\Release\inputbox.csprojResolveAssemblyReference.cache
 D:\Software\עזרי ויזואל-בייסיק 1\CSharp-InputBox\inputbox\obj\Release\inputbox.exe

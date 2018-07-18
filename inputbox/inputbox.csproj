@@ -6,12 +6,12 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <OutputType>Exe</OutputType>
-    <RootNamespace>inputbox</RootNamespace>
-    <AssemblyName>inputbox</AssemblyName>
+    <RootNamespace>InputBox</RootNamespace>
+    <AssemblyName>InputBox</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <NoWin32Manifest>False</NoWin32Manifest>
-    <SignAssembly>False</SignAssembly>
+    <SignAssembly>True</SignAssembly>
     <DelaySign>False</DelaySign>
     <AssemblyOriginatorKeyMode>File</AssemblyOriginatorKeyMode>
     <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
@@ -25,6 +25,7 @@
     <ApplicationManifest>app.manifest</ApplicationManifest>
     <TargetFrameworkProfile>
     </TargetFrameworkProfile>
+    <AssemblyOriginatorKeyFile>InputBox.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
